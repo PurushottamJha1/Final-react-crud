@@ -1,0 +1,68 @@
+{
+    "contacts" :[
+        {
+          "id": "D6BNdWnHI",
+          "name": "Brad Gibson",
+          "company": "YouTube",
+          "email": "brad@gmail.com",
+          "title": "Youtuber",
+          "mobile": "9876546787",
+          "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+          "groupId": "1"
+        },
+        {
+          "id": "TVobxeKbI",
+          "name": "Glenda Kim",
+          "company": "Friend",
+          "email": "glenda@gmail.com",
+          "title": "freelancer",
+          "mobile": "9876546787",
+          "photo": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg",
+          "groupId": "2"
+        },
+        {
+          "id": "UyEDVSYds",
+          "name": "Vladeen Min",
+          "company": "Service",
+          "email": "vladeen@gmail.com",
+          "title": "Electrician",
+          "mobile": "9876546787",
+          "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ78ua_0Z0w9iIe1jt11k3PsoD0CsvML6B6Q&usqp=CAU",
+          "groupId": "3"
+        },
+        {
+          "id": "E4FXCVA",
+          "name": "LAVEEN SAGGAM",
+          "company": "UiBrains",
+          "email": "naveen.uibrains@gmail.com",
+          "title": "Software Engineer",
+          "mobile": "9844894533",
+          "photo": "https://e7.pngegg.com/pngimages/550/997/png-clipart-user-icon-foreigners-avatar-child-face.png",
+          "groupId": "4"
+        }
+      ],
+    "groups" :[
+        {
+            "id" : "1",
+            "name" : "Colleague"
+        },{
+            "id": "2",
+            "name":"Friend"
+        },{
+            "id":"3",
+            "name":"Family"
+        },{
+            "id":"4",
+            "name":"Service"
+        },{
+            "id":"5",
+            "name":"Community"
+        },{
+            "id":"6",
+            "name":"Social"
+        },{
+           "id" :"7",
+           "name" : "Army"
+        }
+    ]
+}
